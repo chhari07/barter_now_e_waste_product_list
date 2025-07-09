@@ -1,0 +1,172 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Voltas AC",
+      "category": "Large Household Appliances",
+      "status": "Donate",
+      "tags": ["Semi Working", "For Sale", "Fully Working"],
+      "image": "https://d28wu4rrwshdah.cloudfront.net/138935.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Amaron Inverter",
+      "category": "Batteries & Power Storage",
+      "status": "Sell",
+      "price": 4531,
+      "tags": ["Fully Working", "Not Working / Scrap", "For Sale"],
+      "image": "https://5.imimg.com/data5/ANDROID/Default/2023/6/313430771/RD/BB/RI/100524755/product-jpeg-1000x1000.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Fitbit Band",
+      "category": "Smart Home Devices",
+      "status": "Exchange",
+      "tags": ["Semi Working", "For Recycling"],
+      "image": "https://www.cnet.com/a/img/resize/ceef633c0f702739858418cccc4ca530e34d5b67/hub/2013/10/09/f3ae6c53-6797-11e3-846b-14feb5ca9861/Fitbit_Force_35828458_22.jpg?auto=webp&width=1200"
+    },
+    {
+      "id": 4,
+      "name": "PlayStation Console",
+      "category": "Consumer Electronics / Devices",
+      "status": "Sell",
+      "price": 25567,
+      "tags": ["Not Working / Scrap", "Semi Working"],
+      "image": "https://m.media-amazon.com/images/I/41YdV7aDyQL._SX466_.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Canon Printer",
+      "category": "Office & Business Equipment",
+      "status": "Repair",
+      "tags": ["Free (Donate)", "Semi Working"],
+      "image": "https://patnacomputers.com/cdn/shop/products/2900b.jpg?v=1667628247"
+    },
+    {
+      "id": 6,
+      "name": "Sony CRT TV",
+      "category": "TVs, Monitors & Display Devices",
+      "status": "Recycle",
+      "tags": ["Not Working / Scrap", "For Recycling"],
+      "image": "https://i.postimg.cc/FRgbtzk5/sony-crt-tv.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Dell Laptop",
+      "category": "Information & Communication Technology",
+      "status": "Exchange",
+      "tags": ["Fully Working", "For Exchange"],
+      "image": "https://i.ebayimg.com/images/g/bQcAAOSwe7ZnFXOn/s-l1600.webp"
+    },
+    {
+      "id": 8,
+      "name": "Bluetooth Speaker",
+      "category": "Consumer Electronics / Devices",
+      "status": "Donate",
+      "tags": ["Fully Working", "Free (Donate)"],
+      "image": "https://www.coconutlife.in/cdn/shop/files/jpeg-optimizer_COCONUTNEW2.jpg?v=1707892702"
+    },
+    {
+      "id": 9,
+      "name": "Electric Kettle",
+      "category": "Small Household Appliances",
+      "status": "Sell",
+      "price": 599,
+      "tags": ["Semi Working", "For Sale"],
+      "image": "https://assets.epicurious.com/photos/609e9d9848cd17a4fcdbf149/16:9/w_1920,c_limit/The-Best-Electric-Kettle-11042018_V1.jpg"
+    },
+    {
+      "id": 10,
+      "name": "LG Washing Machine",
+      "category": "Large Household Appliances",
+      "status": "Repair",
+      "tags": ["Not Working / Scrap"],
+      "image": "https://www.lg.com/content/dam/channel/wcms/in/images/washing-machines/fhd0905stb_ablqeil_eail_in_c/gallery/FHD0905STB-Front-View-DZ-1.jpg"
+    },
+    {
+      "id": 11,
+      "name": "RAM Module",
+      "category": "Components & Spares",
+      "status": "Recycle",
+      "tags": ["For Recycling"],
+      "image": "https://i.pcmag.com/imagery/encyclopedia-terms/memory-module-_memmod.fit_lim.size_768x.gif"
+    },
+    {
+      "id": 12,
+      "name": "USB-C Charger",
+      "category": "Cables & Accessories",
+      "status": "Exchange",
+      "tags": ["Fully Working", "For Exchange"],
+      "image": "https://images-cdn.ubuy.co.in/636b982710988012fd485522-tablet-usb-cable-tablet-charger-cord.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Smart Plug",
+      "category": "Smart Home Devices",
+      "status": "Sell",
+      "price": 799,
+      "tags": ["Fully Working", "For Sale"],
+      "image": "https://gourban.in/cdn/shop/files/URBAN_Core_smart_plug_10A_01.jpg?v=1706879534&width=800"
+    },
+    {
+      "id": 14,
+      "name": "HP Desktop",
+      "category": "Information & Communication Technology",
+      "status": "Sell",
+      "price": 12499,
+      "tags": ["Fully Working", "For Exchange"],
+      "image": "https://www.ourkidsmom.com/wp-content/uploads/2013/06/HPTouchSmart1.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Hair Dryer",
+      "category": "Small Household Appliances",
+      "status": "Donate",
+      "tags": ["Semi Working", "Free (Donate)"],
+      "image": "https://cdn.shoplightspeed.com/shops/610628/files/50977664/image.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Alarm Clock",
+      "category": "Miscellaneous / Toys",
+      "status": "Recycle",
+      "tags": ["Not Working / Scrap", "For Recycling"],
+      "image": "https://images-cdn.ubuy.co.in/6645cd8d76281518257b83b4-westclox-black-digital-alarm-clock-with.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Electric Screwdriver",
+      "category": "Electrical Tools & Equipment",
+      "status": "Sell",
+      "price": 1299,
+      "tags": ["Fully Working", "For Sale"],
+      "image": "https://5.imimg.com/data5/SELLER/Default/2023/1/YR/DU/EJ/18555137/400w-electric-wired-screw-driver-1000x1000.jpeg"
+    },
+    {
+      "id": 18,
+      "name": "Smart Thermostat",
+      "category": "Smart Home Devices",
+      "status": "Exchange",
+      "tags": ["Battery Dead", "For Exchange"],
+      "image": "https://www.thespruce.com/thmb/RNaAeQJBiYH4DQjSW6JLZpvzGQ8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SPR-smart-thermostat-installation-7109495-step-hero-f2525e5acfdf476ea8a2bfde7efdb037.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Microwave Oven",
+      "category": "Large Household Appliances",
+      "status": "Sell",
+      "price": 3999,
+      "tags": ["Fully Working", "For Sale"],
+      "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1724857616/Croma%20Assets/Small%20Appliances/Microwave%20or%20OTG/Images/305569_0_hb4szs.png?tr=w-640"
+    },
+    {
+      "id": 20,
+      "name": "iPhone 8",
+      "category": "Consumer Electronics / Devices",
+      "status": "Sell",
+      "price": 8499,
+      "tags": ["Semi Working", "For Sale"],
+      "image": "https://www.janado.de/cdn/shop/files/Apple---iPhone-8---grau_127a8cef-d332-40a5-b8e4-6f4cfebbacea_700x.png?v=1751353897"
+    }
+  ]
+}
